@@ -9,7 +9,7 @@ My name is Claudio and I'm a student of Computer Science
 
 - 📚 I'm currently focused on learning Java, Javascript, HTML and CSS.
 - 📌 My current areas of interest are web development.
-- 📎 Fun fact: i like gaming and being a gym rat 💪, also i'm into anime.
+- 📎 Fun fact: i like gaming, being a gym rat 💪 and football ⚽, also i'm into anime.
 
 
 
