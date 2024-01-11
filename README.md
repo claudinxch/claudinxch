@@ -1,6 +1,7 @@
 # Hi there👋 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/claudinxch/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/claudio-m-246674288/)
+
 
 
 My name is Claudio and I'm a student of Computer Science
