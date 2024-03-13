@@ -8,7 +8,7 @@ My name is Claudio and I'm a student of Computer Science
 
 **About me**
 
-- 📚 I'm currently focused on learning React.js, Javascript, HTML and CSS.
+- 📚 I'm currently focused on learning React.js, Javascript, HTML, CSS and Java.
 - 📌 My current areas of interest are web development.
 - 📎 Fun fact: i like gaming, being a gym rat 💪 and football ⚽, also i'm into anime.
 
