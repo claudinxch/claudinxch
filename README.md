@@ -1,19 +1,22 @@
 <p float="left">
-    <samp>
-      <br>
-      <br>
-      about me:<br>
-             - he/him, brazilian, pt-br + eng<br>
-             - computer science student at ibmr<br>
-             - working as frontend developer intern at hai.<br>
-             - <br>
-      <br>
-      <br>
-      langs:<br>
-          > javascript, typescript, java.
-      <br>
-      <br>
-    </samp>
+  <img>
+    <p float="left">
+      <samp>
+        <br>
+        <br>
+        about me:<br>
+               - he/him, brazilian, pt-br + eng<br>
+               - computer science student at ibmr<br>
+               - working as frontend developer intern at hai.<br>
+               - <br>
+        <br>
+        <br>
+        langs:<br>
+            > javascript, typescript, java.
+        <br>
+        <br>
+      </samp>
+    </p>
   </p>
 
 <div>
