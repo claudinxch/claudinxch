@@ -1,3 +1,4 @@
+<div>
 <p float="left">
   <img src="https://github.com/claudinxch/claudinxch/blob/main/img1.png" width="500" align="left">
     <p float="left">
@@ -15,13 +16,13 @@
             > javascript, typescript, java.
         <br>
         <br>
+        tools:<br>
+          - <a href="https://react.dev">react</a> - library for building user interfaces <br> 
+          - <a href="https://tailwindcss.com">tailwind css</a> - css framework<br>
+          - <a href="https://nextjs.org">nextjs</a> - react framework <br>
+       <br>
+       <br>
       </samp>
     </p>
   </p>
-
-<div>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudinxch&layout=compact&langs_count=7&theme=catppuccin_mocha"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=claudinxch&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-
 </div>
