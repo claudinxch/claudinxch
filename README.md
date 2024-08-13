@@ -9,8 +9,6 @@
                - he/him, brazilian, pt-br + eng<br>
                - computer science student at ibmr<br>
                - working as frontend developer intern at hai.<br>
-               - <br>
-        <br>
         <br>
         langs:<br>
             > javascript, typescript, java.
