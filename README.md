@@ -7,11 +7,11 @@
         <br>
         about me:<br>
                - he/him, brazilian, pt-br + eng<br>
-               - computer science student at ibmr<br>
-               - working as frontend developer intern at hai.<br>
+               - BSc in computer science student at ibmr<br>
+               - working as software engineer at hai.<br>
         <br>
         langs:<br>
-            > javascript, typescript, java.
+            > javascript, typescript, python.
         <br>
         <br>
         tools:<br>
